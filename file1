@@ -1,0 +1,19 @@
+Addition(+):
+a= 2
+b=3
+a + b = 5
+
+Subtraction(-):
+a= 2
+b=3
+a - b = -1
+
+Multiplication(*):
+a=2 
+b=3
+a * b = 6
+
+Division (/):
+a= 6
+b=3
+a / b = 2
